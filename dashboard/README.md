@@ -4,4 +4,4 @@ A Claude Dashboard artifact that renders four JSON datasets: a timeline, next st
 
 `sample-data/` holds **fictional** data in the production format. Schema: [`../docs/data-model.md`](../docs/data-model.md).
 
-<!-- TODO Chris: add a screenshot of the dashboard with names blurred: ![Dashboard](../docs/img/dashboard.png) -->
+![Dashboard](../docs/img/dashboard.png)

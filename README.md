@@ -29,6 +29,9 @@ A spreadsheet CRM goes stale within a week if a person has to update it by hand.
 | Syncs next steps into Microsoft To Do | |
 | Emails and pushes a nightly digest, with the most important item first | |
 
+![Recruiting Command Center dashboard](docs/img/dashboard.png)
+*The recruiting dashboard the nightly agent keeps current: deadlines, overdue items, blockers and questions only I can answer.*
+
 ## Architecture
 
 ```mermaid
