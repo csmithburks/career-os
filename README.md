@@ -83,9 +83,17 @@ More detail, including why each piece exists, is in [`docs/architecture.md`](doc
 
 ## Results so far
 
-- Nightly digest and morning agenda running on schedule since October 2026
-- <!-- TODO Chris: add real numbers, e.g. contacts tracked, chats/week before vs. after, drafts written, hours saved per week -->
-- <!-- TODO Chris: one concrete story, e.g. a follow-up the system caught that you would have missed -->
+In the first four weeks (Sept 30 – Oct 26, 2026):
+
+| | |
+|---|---|
+| Contacts tracked | **48**, with new ones added by the agent from intros, bookings, events and replies |
+| Interactions logged | **62**: chats, intros, conference conversations, company presentations |
+| Follow-up drafts written | **41**, all held as drafts for my review; none sent automatically |
+| Automated runs | **35** logged CRM updates |
+| Chat prep | A prep brief for every 1:1 in the next 48 hours, written into the CRM |
+
+**One example:** when a scheduled call didn't happen, the next run caught it from my meeting notes, kept the prep brief for the new slot, pulled the contact's stated availability from email, and had a reschedule note drafted before the morning agenda arrived.
 
 ## What I learned
 
