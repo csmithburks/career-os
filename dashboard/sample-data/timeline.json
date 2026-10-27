@@ -1,0 +1,5 @@
+[
+  {"id":"t-001","date":"2026-11-05","time":"","title":"Example AI Co. — summer GTM internship application due","kind":"deadline","track":"Tech","source":"Career portal","done":false},
+  {"id":"t-002","date":"2026-11-07","time":"12:00","title":"Coffee chat — Jordan Lee (Example Robotics, BD)","kind":"event","track":"Networking","source":"Calendar","done":false},
+  {"id":"t-003","date":"2026-11","time":"","title":"Defense tech trek (NYC)","kind":"milestone","track":"Defense tech","source":"Club email","done":false}
+]

@@ -1,0 +1,8 @@
+{
+  "list": "Recruiting",
+  "generated": "2026-11-01",
+  "items": [
+    {"id": "step-s-001", "title": "Send thank-you to Jordan Lee", "due": "2026-11-08", "importance": "high", "done": false},
+    {"id": "date-t-001", "title": "Example AI Co. application due", "due": "2026-11-05", "importance": "normal", "note": "Source: Career portal", "done": false}
+  ]
+}

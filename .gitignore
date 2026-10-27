@@ -1,0 +1,22 @@
+# Dependencies and builds
+node_modules/
+dist/
+
+# Secrets and sign-ins: never commit
+.env
+*.env
+oauth-keys.json
+client_secret_*.json
+credentials.json
+token*.json
+.gmail-mcp/
+.career-todo/
+
+# Real personal data: only *.example.json and sample-data are published
+recruiting-sync.json
+todo-sync-report.json
+todo-export.json
+
+# OS
+.DS_Store
+Thumbs.db
