@@ -82,7 +82,7 @@ More detail, including why each piece exists, is in [`docs/architecture.md`](doc
 | [`dashboard/`](dashboard) | Dashboard dataset formats, with fictional sample data |
 | [`todo-cli/`](todo-cli) | Python CLI (no dependencies) that signs into Microsoft Graph and syncs dashboard steps into a To Do list idempotently, never creating duplicates |
 | [`connectors/gmail-mcp/`](connectors/gmail-mcp) | Multi-account Gmail MCP server, forked and hardened: read and draft only, Windows sign-in fix, wrong-account guard, thread-aware drafts |
-| `connectors/school-sync/` | *Coming soon:* the hourly Apps Script that mirrors school mail and calendar into the CRM <!-- TODO Chris: paste the Apps Script code here with IDs removed --> |
+| [`connectors/school-sync/`](connectors/school-sync) | Google Apps Script that runs inside the school account and mirrors mail, calendar and the To Do export into the CRM every hour |
 
 ## Results so far
 
